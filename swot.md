@@ -1,6 +1,7 @@
 ---
 theme: dracula
 paginate: true
+class: invert
 backgroundColor: #333
 marp: true
 #backgroundImage: url('https://marp.app/assets/hero-background.svg')
